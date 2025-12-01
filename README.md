@@ -59,7 +59,7 @@ Se não tiver o Node instalado, instale-o a partir de https://nodejs.org/
 Os testes usarão o Jest para verificar se as funções em src/ retornam os valores esperados. Leia as mensagens do Jest — elas indicam quais casos falharam e por quê.
 
 **Dica rápida:** enquanto desenvolve, você pode rodar apenas um teste com:
-- `npm test -- -t "nome do teste"` (dependendo de como os testes foram escritos)
+- `n''pm test -- -t "nome do teste"` (dependendo de como os testes foram escritos)
 
 ---
 
