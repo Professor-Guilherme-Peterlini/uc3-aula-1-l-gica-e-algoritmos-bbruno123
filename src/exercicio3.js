@@ -1,2 +1,11 @@
-function media(a,b,c){ return '' }
-module.exports=media;
+function media_nota(a,b,c){
+    media_nota = (a+b+c)/3
+
+    if (media_nota >= 7){
+        return 'aprovado'
+
+    }else{
+        return 'reprovado'
+    }
+
+}
