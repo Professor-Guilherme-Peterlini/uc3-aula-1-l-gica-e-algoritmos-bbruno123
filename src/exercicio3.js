@@ -9,3 +9,5 @@ function media_nota(a,b,c){
     }
 
 }
+
+module.exports = media_nota;
