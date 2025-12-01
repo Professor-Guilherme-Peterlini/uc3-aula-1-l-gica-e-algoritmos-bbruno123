@@ -1,2 +1,5 @@
-function somar(a,b){ return 0 }
-module.exports=somar;
+function so (a,b) {
+    return a+b
+}
+
+module.exports=so;

@@ -1,3 +1,4 @@
+[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=21899203&assignment_repo_type=AssignmentRepo)
 # 🧩 Atividade 01 – Fundamentos de Programação Estruturada (JavaScript)
 
 Este repositório contém exercícios introdutórios de lógica e algoritmos em JavaScript, pensados para quem está começando a programar. O foco é praticar:
@@ -58,7 +59,7 @@ Se não tiver o Node instalado, instale-o a partir de https://nodejs.org/
 Os testes usarão o Jest para verificar se as funções em src/ retornam os valores esperados. Leia as mensagens do Jest — elas indicam quais casos falharam e por quê.
 
 **Dica rápida:** enquanto desenvolve, você pode rodar apenas um teste com:
-- `npm test -- -t "nome do teste"` (dependendo de como os testes foram escritos)
+- `n''pm test -- -t "nome do teste"` (dependendo de como os testes foram escritos)
 
 ---
 
