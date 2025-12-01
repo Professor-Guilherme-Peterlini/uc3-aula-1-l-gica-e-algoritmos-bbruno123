@@ -1,7 +1,7 @@
-function media_nota(a,b,c){
-    media_nota = (a+b+c)/3
+function media(a,b,c){
+    media = (a+b+c)/3
 
-    if (media_nota >= 7){
+    if (media >= 7){
         return 'aprovado'
 
     }else{
@@ -10,4 +10,4 @@ function media_nota(a,b,c){
 
 }
 
-module.exports = media_nota;
+module.exports = media;
